@@ -10,7 +10,7 @@ int main()
     int kast[100];
     // Skapa en Array till tärningen med alla sidor
     int tärning[6] = {0};
-    int sum        = 0;
+    int sum = 0;
 
     // Starta en for loop och spara 100 rand nummer mellan 1-6 i Kast[i]
     for (int i = 0; i < 100; i++)
